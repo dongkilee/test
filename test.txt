@@ -5,3 +5,4 @@ dongki2
 konbanwa
 konnichiwa
 aisiteru
+ohayou
