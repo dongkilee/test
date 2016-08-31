@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 master
 master2
+=======
+dongki
+dongki2
+>>>>>>> dongki
